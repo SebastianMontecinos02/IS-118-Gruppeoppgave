@@ -4,7 +4,47 @@
 - Sebastian Montecinos
 - Simen Tokerud
 - Jakob Syvertsen Bratlie
-- 
+- Jesper Brodersen
+
+# Oppstartspakke, del 2 av 6
+
+## Mangfold, konflikter og rekruttering
+
+Mangfold gir prosjektet tilgang til bredere kunnskap, flere perspektiver og sterkere representasjon av de gruppene som berøres. For denne portalen er faglig mangfold både nødvendig og ønskelig, fordi ingen enkelt kommunal avdeling har full forståelse av hele tjenesten. Mangfold i perspektiver reduserer også risikoen for at kommunen utvikler en løsning som fungerer godt internt, men som ikke oppfyller innbyggernes behov.
+
+Mangfold kan imidlertid medføre koordineringskostnader. Deltakerne kan bruke ulik terminologi, arbeide i forskjellig tempo og ha ulike oppfatninger av hva som kjennetegner suksess. IT-personell kan legge størst vekt på stabilitet og integrasjon, kulturavdelingen på deltakelse, planleggingspersonell på formell saksbehandling, politikere på offentlig synlighet, og brukerrepresentanter på enkelhet og responsivitet.
+
+Konflikter i prosjektet er derfor ikke nødvendigvis et tegn på at rekrutteringen har mislyktes. Prosjekter samler mennesker med ulike fagområder, forventninger, verdier og kunnskap, noe som gjør uenighet sannsynlig. Når faglige konflikter håndteres på en god måte, kan de bidra til bedre løsninger, mens ukontrollerte relasjonelle konflikter kan skade prosjektet. (Villax & Anantatmula, 2010).
+
+I rekrutteringen bør Erling ha fokus på samarbeidsevne og teknisk ekspertise. Spør kandidatene hvordan de håndterer uenighet, forklarer tekniske detaljer til ikke-tekniske personer eller be dem beskrive en situasjon hvor de endret standpunkt basert på tilbakemeldinger. Det må også stilles krav til tilgjengelighet: En god skikket teknisk ressurs med mye kompetanse tilfører lite verdi til prosjektet dersom vedkommende ikke har tid til å delta aktivt eller ikke er tilgjengelig ved behov.
+
+## Tilstrekkelig representasjon
+
+De to innbyggerrepresentantene bør gjenspeile ulike brukersituasjoner. Ideelt sett bør den ene representere de digitalt kompetente brukerne, mens den andre bør bidra med forståelse for innbyggere som møter barrierer knyttet til tilgjengelighet, språk, alder eller digitale ferdigheter. Begge må få tilgang til den samme informasjonen som de øvrige medlemmene i prosjektgruppen og ha reell innflytelse på kravspesifikasjon, beslutninger og testing av løsningen.
+
+Erling bør også vurdere å involvere et bredere panel av sluttbrukere utenfor kjerneteamet. Dette kan for eksempel inkludere en blanding av yngre og eldre innbyggere, personer med funksjonsnedsettelse og innbyggere med begrenset norskkunnskap. På denne måten kan kjerneteamet underbygge sine designantakelser. Dette er spesielt viktig for å unngå digital eksklusjon og sørge for at systemet er brukbart for alle brukergrupper, ikke bare den gjennomsnittlige innbygger.
+
+# Oppstartsmøte (Kick-off)
+
+Oppstartsmøtet bør, dersom det er mulig, gjennomføres som en heldags fysisk workshop. Hensikten er ikke bare å fordele oppgaver. Det skal skape en felles forståelse av prosjektet, etablere psykologisk trygghet og resultere i konkrete avtaler om samarbeid.
+
+## Foreslått agenda
+
+**09:00–09:30: Uformell ankomst og relasjonsbygging**
+
+Kaffe og introduksjoner i par. Hver deltaker forteller om sin bakgrunn, hva de håper portalen skal oppnå, og én bekymring de har. Dette er et eksempel på formålstjenlig «pseudo-arbeid», aktiviteter som kanskje ikke gir umiddelbare tekniske leveranser, men som bygger kjennskap, tillit og samarbeidsgrunnlag.
+
+**09:30–10:00: Prosjekteiers åpning og prosjektmandat**
+
+Prosjekteieren forklarer hvorfor kommunen investerer 8 millioner kroner, hvilke politiske forventninger som finnes, den 15 måneder lange tidsrammen, og grensene for Erlings myndighet som prosjektleder. Det bør også tydeliggjøres hva som allerede er besluttet, og hvilke spørsmål som fortsatt er åpne.
+
+**10:00–10:45: Øvelse om innbyggerverdi**
+
+Små grupper skriver korte fremtidsscenarier som beskriver hvordan ulike innbyggere vil bruke portalen. Deretter identifiserer de hvilke forutsetninger som må være oppfylt for at tjenesten skal øke engasjement og åpenhet. Dette flytter diskusjonen fra funksjonalitet til samfunnsverdi.
+
+**10:45–11:30: Definisjon av suksess**
+
+Teamet omsetter ambisjonen om en økning på 20 prosent til målbare indikatorer. Engasjement kan måles gjennom antall og mangfold blant deltakere, bidrag til høringer, deltagelse på digitale møter og gjenbruk av tjenesten. Åpenhet kan måles gjennom innbyggernes evne til å finne saker, forstå statusinformasjon og oppleve kommunale prosesser som transparente. Baseline, datakilder og ansvar for måling bør identifiseres.
 
 # Oppstartspakke, del 3 av 6
 
