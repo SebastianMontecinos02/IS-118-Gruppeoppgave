@@ -4,7 +4,7 @@
 - Sebastian Montecinos
 - Simen Tokerud
 - Jakob Syvertsen Bratlie
-- Jesper Brodersen
+- 
 
 # Oppstartspakke, del 3 av 6
 
