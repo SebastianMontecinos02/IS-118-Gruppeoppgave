@@ -1,198 +1,3 @@
-# Oppstartspakke, del 5 av 6
-
-# Sikring av god kommunikasjon
-
-God kommunikasjon bør ikke overlates til tilfeldighetene. Kommunikasjonsbehov er I konstant endring gjennom prosjektet, og det er Erlings jobb å sørge for at informasjonen flyter godt fra start til slutt. Erling kan ta utgangspunkt i følgende struktur og justere ved behov:
-
-- **Ukentlig teammøte:** Fremdrift mot sprint- eller milepælsmål, risikoer, beslutninger, avhengigheter og konflikter.
-
-- **Korte operative statusmøter:** To til tre ganger per uke under intensiv utvikling, begrenset til umiddelbar koordinering.
-
-- **Demonstrasjon hver annen uke:** Fungerende løsninger vises til teamet, prosjekteieren og utvalgte brukere.
-
-- **Månedlig styringsrapport:** Budsjett, tidsplan, omfang, gevinster, viktigste risikoer, nødvendige beslutninger og prognoser.
-
-- **Månedlig retrospektiv:** Samarbeid og prosessforbedring.
-
-- **Kvartalsvis interessentforum:** Avdelinger, interessegrupper og politiske representanter mottar status og gir tilbakemeldinger.
-
-- **Felles prosjektområde:** Én autoritativ plassering for planer, beslutninger, risikoer, møtereferater, design og krav.
-
-Hvert møte må ha et tydelig formål, fastsatt agenda, beslutningsprotokoll og handlingsliste. Her kan Erling benytte AI-verktøy for utarbeiding av forslag til møtereferat, som deretter kontrolleres av deltakerne. Erling bør oppmuntre til klart og forståelig spark slik at alle interessenter og gruppemedlemmer kan bidra, uansett bakgrunn. Teknisk, politisk og administrativ terminologi må oversettes slik at alle forstår hva som blir ment. Brukerrepresentanter kan trenge forberedelsessesjoner I forkant av tekniske workshops, mens tekniske spesialister må få tydelige beskrivelser av kommunale arbeidsprosesser.
-
-Kommunikasjonen må også omfatte innbyggerne. Kommunen bør forklare hva portalen vil og ikke vil gjøre, hvordan innspill håndteres, hvilke svartider brukerne kan forvente og hvordan personopplysninger behandles. Åpenhet rundt hvilke personopplysninger som behandles, av hvem, hvorfor og hvor lenge er sentralt for å bygge tillit blant innbyggerne.
-
-Til slutt bør Erling være et forbilde for den kommunikasjonskulturen han ønsker å skape. Han bør lytte for han konkluderer, anerkjenne usikkerhet, invitere til motstridende synspunkter, reagere forutsigbart og oppsummere beslutninger. Dersom prosjektlederen straffer personer som deler ubehagelige nyheter vil kommunikasjonssystemene fort bli symbolske. Tidlige varsler bør møtes med konstruktiv oppmerksomhet slik at det er større sannsynlighet for at teamet tar opp problemer mens de fortsatt er håndterbare.
-
-# Konklusjon
-
-Erlings viktigste oppgave i etableringsfasen er å sape de sosiale og ledelsesmessige forutseningene som gjør det mulig for en mangfoldig gruppe å fungere som ett samlet prosjektteam. Dette krever mer enn å rekruttere dyktige og kompetente personer. Han må sikre balansert kompetanse, reell tilgjengelighet, felles formål og tilstrekkelig relasjonell tillit.
-
-Det første møtet bør kombinere avklaring av mandat, utforskning og innbyggerverdi, rolleavklaring, risikoidentifisering og relasjonsbygging. En relasjonsavtale bør supplere det formelle prosjektmandatet ved å definere gjensidige forventninger, beslutningsatferd og eskaleringsprinsipper. Konflikter bør synliggjøres gjennom faste mekanismer og håndteres i henhold til avtalt konfliktstige. Prosjektet må ledes gjennom en beskyttet utforskningsfase, tidlig testing av risikofylte antakelser og en iterativ implementasjon basert på MoSCoW-metoden hvor tilstrekkelig testing, sikkerhet og personvern prioriteres.
-
-Kommunikasjonen må være strukturert, inkluderende og transparent. Erling er ansvarlig for å etablere praksiser som muliggjør denne typen kommunikasjon tidlig i prosjektet. Dette vil gjøre teamet hans bedre rustet til å håndtere politiske forventninger, teknisk usikkerhet og tverrfaglig uenighet. Resultatet er ikke nødvendigvis et vellykket prosjekt, snarere et godt utgangspunkt for å kunne levere i henhold til de forventninger og krav som stilles.
-
-# Egenevaluering
-
-## 1. Hensiktsmessighet og etterlevelse
-
-• På hvilke områder fungerte kontrakten godt for å sikre fremdrift,
-
-ansvarsfordeling og kommunikasjon?
-
-Kontrakten fungerte godt med blant annet at vi fikk tydelig avklart hvilke kommunikasjonskanaler vi skulle bruke. Dette gjorde at vi kjapt fikk en plattform hvor alle vet at forskjellige beskjeder, spørsmål og avtaler blir lagd. Dette er viktig slik at alle får med seg hva som skjer i gruppen, og er inkludert i veien videre.
-
-• Ble reglene dere ble enige om faktisk fulgt i hverdagen, eller ble
-
-kontrakten et "glemt dokument"? Gi konkrete eksempler.
-
-Det virket som at kontrakten ble raskt glemt for enkelte. Et eksempel på dette er at vi hadde tydelig i kontrakten at alle må melde seg på i gruppechatten, svare på meldinger, gi beskjeder hvis de ikke har anledning til å møte opp, osv. Det har ikke vært like bra hele veien, men blitt bedre etter enkelte fra gruppen har fått tilbakemelding på dette.
-
-
-
-
-\# Oppstartspakke, del 6 av 6
-
-
-# Introduksjon
-
-Erlings oppgave kombinerer en optimistisk tidsfrist, et begrenset budsjett, teknisk usikkerhet og en ambisiøs målsetning. Systemet skal utvikles og lanseres innen 15 måneder, og har variert funksjonalitet. For å oppnå målsetningen om 20% økt engasjement må systemet være brukervennlig, intuitivt, lett tilgjengelig og ha god ytelse. Videre må systemet sikres tilstrekkelig slik at innbyggernes tillit ikke settes i spill. I offentlig sektor i Norge vil Digdir sine overordnede arkitekturprinsipper være ledende (Digdir, 2026).
-
-I denne oppgaven vil vi designe en oppstartspakke som optimaliserer prosjektets «forming»-fase. Pakken inneholder forslag til team-sammensetning, agenda for første møte, rammer for relasjonelle kontrakter, konflikthåndtering, planlegging under press og råd for å sikre god kommunikasjon. Tidlig fokus på disse aspektene vil være helt nødvendig for å nå målet innenfor prosjektets rammer.
-
-# Strategi for rekruttering og sammensetning
-
-## Prosjektets behov
-
-Først må prosjektets behov kartlegges. Det vil være behov for ekspertise innen mange forskjellige fagområder som prosjektstyring, tjenestedesign, brukerkartlegging, utvikling, kommunale prosesser, informasjonssikkerhet, personvern og tilgjengelighet. Dersom Erling har et kapabilitetskart for egen organisasjon tilgjengelig, kan han benytte dette til å finne egnede medlemmer til prosjektgruppen (Ardoq, 2026).
-
-Prosjektgruppen har mange utfordringer:
-
-- Prioritering av systemkrav,
-
-- Håndtering av mange ulike interessenter med forskjellige behov
-
-- Design og testing av løsninger
-
-- Ivareta god informasjonssikkerhet og godt personvern
-
-- Sikre god ytelse, også under lansering og perioder med økt pågang
-
-Kompetansen som kreves for å møte disse utfordringene vil variere i de ulike fasene i prosjektet. Erling må skille mellom et kjerneteam med permanente medlemmer og fagspesialister som bidrar ved behov.
-
-Den planlagte prosjektgruppen vil dekke mye av kompetansen som kreves for å gjennomføre prosjektet, med unntak av noen potensielle kompetansegap: UX/UI-designeren bør ha kompetanse innen tilgjengelighet og kartlegging av brukernes behov. Videre behøver gruppen kompetanse på arkitektur som må dekkes inn av IT-avdelingen. Det er også behov for kompetanse innen lovverk, GDPR og databeskyttelse. En sikkerhetsekspert dekker ikke nødvendigvis alle disse fagområdene, spesielt når det kommer til GDPR og juss. Ved behov bør en jurist engasjeres.
-
-## Andre sentrale roller i teamarbeidet
-
-Prosjektgruppen kan deles inn i fire forskjellige orienteringer:
-
-1.  **Produksjon:** Medlemmer som gjør oppgaver om til resultater. Her hører blant annet UX/UI-designeren og IT-personnell hjemme.
-
-2.  **Administrasjon:** Medlemmer som gir prosjektet struktur i form av budsjetter, dokumentasjon, anskaffelser, rapportering og beslutningstaking.
-
-3.  **Integrasjon:** Medlemmer som kobler sammen de ulike fagdisiplinene og interessentene. Disse medlemmene bygger samhold og fungerer som oversettere mellom de tekniske, politiske og brukersentrerte perspektivene.
-
-4.  **Entreprenørskap:** Medlemmene som utforsker nye muligheter, utfordrer antakelser og utvikler innovative løsninger.
-
-Hvert gruppemedlem kan ha flere roller, og det er Erlings oppgave å sørge for at alle fire orienteringene er godt nok representert, samt at forholdet mellom dem er balansert. En gruppe med for mange administratorer kan føre til god dokumentasjon og struktur, men treig fremgang. For mange produsenter kan føre til rask fremgang, men kan føre til at sluttbrukernes behov blir glemt eller misforstått. For mange entreprenører har en tendens til å føre til mange endringer i scope, mens for få kan føre til en lite kreativ løsning med mye tapt potensiale.
-
-Den politiske rådgiveren og brukerrepresentantene står sentralt i integrasjonsrollen. De bør imidlertid også bidra i prioriteringsarbeid og testing. Sikkerhetseksperten må involveres fra begynnelsen av for å forankre informasjonssikkerhet i hele systemet, såkalt «Security by design». Databeskyttelse og personvern bør også være i fokus gjennom hele utviklingsprosessen. Det er mer kostnadseffektivt å adressere disse behovene tidlig sammenlignet med å forbedre et allerede eksisterende system.
-
-\## 2. Svakheter og rom for forbedring
-
-
-
-\### Hvilke uforutsette situasjoner, utfordringer eller friksjoner oppstod som kontrakten ikke tok høyde for?
-
-
-
-Det har ikke vært veldig mye som kontrakten ikke tok høyde for, men vi har opplevd noe frustrasjon rundt kommunikasjonen i gruppen. Noen er flinke til å gi beskjed, mens andre ikke alltid gir lyd fra seg. Vi har imidlertid sett en bedring etter at det ble sendt ut beskjed om at kommunikasjonen måtte skjerpes. Generelt føler vi at kontrakten dekker de viktigste områdene, og at gruppemedlemmene har blitt flinkere til å gi beskjed dersom det skulle oppstå problemer.
-
-
-
-\### Var formuleringene for vage (f.eks. «alle må bidra like mye» eller «vi skal møte tidsnok»), og hvordan påvirket dette samarbeidet?
-
-
-
-Vi merker at prioriteringsnivået, som alle satte til 80 %, i praksis kanskje har vært noe lavere. Det har vært noe uforutsett sykdom, samtidig som flere i gruppen har jobb ved siden av studiene. Derfor er det ekstra viktig for oss at kommunikasjonen fungerer godt.
-
-
-
-Vi prøver å sette frister og avtale møter i god tid, slik at vi kan komme tidlig i gang med oppgaver og prosjekter. Vi opplever at engasjementet rundt fordeling av oppgaver og det å få arbeidet i gang er større hos noen enn hos andre. Selve bidragene til oppgavene har likevel vært relativt jevnt fordelt. Det har foreløpig ikke oppstått noen store problemer, bortsett fra enkelte utfordringer knyttet til kommunikasjon.
-
-
-
-\## 3. Erfaringer og råd for fremtidig prosjektarbeid
-
-
-
-\### Med den erfaringen dere har opparbeidet nå: Hvilke konkrete råd vil dere gi til dere selv ved inngåelse av fremtidige gruppekontrakter?
-
-
-
-Vi synes gruppekontrakten i seg selv fungerer ganske bra, men i fremtidige gruppekontrakter bør alle være enda mer ærlige om egne forventninger. Dette gjelder spesielt prioriteringsnivå, motivasjon og hvor mye tid man faktisk har mulighet til å bruke på gruppearbeidet.
-
-
-
-Det har vært perioder med dårlig kommunikasjon, hvor enkelte enten har glemt å gi beskjed om at de ikke kan møte opp, eller bare har reagert på meldinger i stedet for å gi et tydelig svar. I fremtidige prosjekter bør det derfor være tydeligere forventninger til hvordan og når gruppemedlemmene skal kommunisere med hverandre.
-
-
-
-\### Hvilke spesifikke punkter (f.eks. håndtering av sykdom/fravær, forventningsavklaring om ambisjonsnivå og sanksjoner ved tidsfrister) bør alltid inkluderes og formuleres mer presist?
-
-
-
-Det bør alltid gis beskjed til gruppen dersom man ikke har mulighet til å møte opp til et avtalt tidspunkt. Beskjeden bør gis så tidlig som mulig etter at man vet at man blir forhindret.
-
-
-
-Det er også viktig at alle er ærlige om egne forventninger og ambisjoner. Dersom gruppemedlemmene har forskjellige forventninger uten å være tydelige om dette, kan det føre til frustrasjon og påvirke samarbeidet og arbeidet negativt.
-
-
-
-Tidsfrister bør som hovedregel alltid overholdes når de først er avtalt. Ved spesielle eller uforutsette hendelser kan det selvfølgelig være nødvendig å tilpasse tidsfristene. I slike situasjoner er god kommunikasjon avgjørende, og gruppen bør informeres så tidlig som mulig dersom en tidsfrist må endres.
-
-
-
-\# Referanser
-
-
-
-Ardoq. (2026, 09 09). \*Business Capability Map: The Concise Guide to Mapping Business Capabilities and Examples\*. Retrieved from Ardoq: https://www.ardoq.com/knowledge-hub/business-capability-map
-
-
-
-Digdir. (2026, 09 09). \*Overordnede arkitekturprinsipper\*. Retrieved from Digdirs hjemmeside: https://www.digdir.no/digital-samhandling/overordnede-arkitekturprinsipper/1065
-
-
-
-Villax, C., \& Anantatmula, V. (2010). Understanding and managing conflict in a project environment. \*PMI® Research Conference: Defining the Future of Project Management\*.
-
-
-
-Wikipedia. (2026, 09 14). \*MoSCoW method\*. Retrieved from Wikipedia: https://en.wikipedia.org/wiki/MoSCoW\_method
-
-
-
-\# Vedlegg I: RASCI Matrix
-
-
-
-| \*\*Bokstav\*\* | \*\*Betydning\*\* | \*\*Beskrivelse\*\* |
-
-|---|---|---|
-
-| \*\*R\*\* | \*\*Responsible (Ansvarlig for utførelse)\*\* | Personen eller personene som utfører arbeidet og sørger for at oppgaven blir gjennomført. |
-
-| \*\*A\*\* | \*\*Accountable (Beslutningsansvarlig)\*\* | Personen som har det endelige ansvaret for resultatet og som godkjenner leveransen. Det bør normalt kun være én beslutningsansvarlig per oppgave. |
-
-| \*\*S\*\* | \*\*Supportive (Støttende)\*\* | Personer som aktivt bistår de utførende med ressurser, kompetanse eller arbeidsinnsats. |
-
-| \*\*C\*\* | \*\*Consulted (Konsulteres)\*\* | Fagpersoner eller interessenter som gir innspill før beslutninger tas. Kommunikasjonen går begge veier. |
-
-| \*\*I\*\* | \*\*Informed (Informeres)\*\* | Personer som skal holdes orientert om fremdrift eller beslutninger. Kommunikasjonen går én vei. |
-
-
 ## Gruppemedlemmer
 - Sebastian Montecinos
 - Simen Tokerud
@@ -205,7 +10,7 @@ Wikipedia. (2026, 09 14). \*MoSCoW method\*. Retrieved from Wikipedia: https://e
 
 # Innholdsfortegnelse
 
-[1 Introduksjon [1](#introduksjon)](#introduksjon)
+[1 Introduksjon
 
 [2 Strategi for rekruttering og sammensetning [2](#strategi-for-rekruttering-og-sammensetning)](#strategi-for-rekruttering-og-sammensetning)
 
@@ -280,6 +85,8 @@ Prosjektgruppen kan deles inn i fire forskjellige orienteringer:
 Hvert gruppemedlem kan ha flere roller, og det er Erlings oppgave å sørge for at alle fire orienteringene er godt nok representert, samt at forholdet mellom dem er balansert. En gruppe med for mange administratorer kan føre til god dokumentasjon og struktur, men treig fremgang. For mange produsenter kan føre til rask fremgang, men kan føre til at sluttbrukernes behov blir glemt eller misforstått. For mange entreprenører har en tendens til å føre til mange endringer i scope, mens for få kan føre til en lite kreativ løsning med mye tapt potensiale.
 
 Den politiske rådgiveren og brukerrepresentantene står sentralt i integrasjonsrollen. De bør imidlertid også bidra i prioriteringsarbeid og testing. Sikkerhetseksperten må involveres fra begynnelsen av for å forankre informasjonssikkerhet i hele systemet, såkalt «Security by design». Databeskyttelse og personvern bør også være i fokus gjennom hele utviklingsprosessen. Det er mer kostnadseffektivt å adressere disse behovene tidlig sammenlignet med å forbedre et allerede eksisterende system.
+
+
 
 # Oppstartspakke, del 2 av 6
 
@@ -438,4 +245,104 @@ Erling bør insistere på en innledende utforskningsfase på omtrent seks til å
 Denne planleggingsmodellen balanserer forutsigbarhet med tilpasningsevne. Teamet bør operere med intervaller der tidsbruk er usikkert, og operere med en liten buffer for avvik og komplikasjoner hvor nødvendig. Denne bufferen bør imidlertid ikke bli for stor, da dette ofte fører til at gruppemedlemmer bruker lenger tid på oppgaven enn de hadde gjort ved en kortere tidsfrist. Der data er tilgjengelige, bør Erling sammenligne tidsbruk med tilsvarende prosjekter i offentlig sektor og basere estimater og eventuelle buffere basert på dette.
 
 En prioritert backlog kan utarbeides ved hjelp av MoSCoW-metoden. Her skilles det mellom Must Have (Må ha), Should Have (Bør ha), Could Have (Kan ha) og Won’t Have (Skal ikke ha) (Wikipedia, 2026). Den første leveransen eller minimumsløsningen trenger ikke ha all funksjonalitet fra de øvrige kategoriene i MoSCoW. Ved usikkerhet eller avvik bør omfanget justeres fremfor å ofre sikkerhet, tilgjengelighet eller testing. Personvernkrav må inkluderes i både kravspesifikasjoner og leverandøravtaler slik at grunnleggende prinsipper som dataminimering og sikker behandling av data ivaretas i løsningen.
+
+# Oppstartspakke, del 5 av 6
+
+# Sikring av god kommunikasjon
+
+God kommunikasjon bør ikke overlates til tilfeldighetene. Kommunikasjonsbehov er I konstant endring gjennom prosjektet, og det er Erlings jobb å sørge for at informasjonen flyter godt fra start til slutt. Erling kan ta utgangspunkt i følgende struktur og justere ved behov:
+
+- **Ukentlig teammøte:** Fremdrift mot sprint- eller milepælsmål, risikoer, beslutninger, avhengigheter og konflikter.
+
+- **Korte operative statusmøter:** To til tre ganger per uke under intensiv utvikling, begrenset til umiddelbar koordinering.
+
+- **Demonstrasjon hver annen uke:** Fungerende løsninger vises til teamet, prosjekteieren og utvalgte brukere.
+
+- **Månedlig styringsrapport:** Budsjett, tidsplan, omfang, gevinster, viktigste risikoer, nødvendige beslutninger og prognoser.
+
+- **Månedlig retrospektiv:** Samarbeid og prosessforbedring.
+
+- **Kvartalsvis interessentforum:** Avdelinger, interessegrupper og politiske representanter mottar status og gir tilbakemeldinger.
+
+- **Felles prosjektområde:** Én autoritativ plassering for planer, beslutninger, risikoer, møtereferater, design og krav.
+
+Hvert møte må ha et tydelig formål, fastsatt agenda, beslutningsprotokoll og handlingsliste. Her kan Erling benytte AI-verktøy for utarbeiding av forslag til møtereferat, som deretter kontrolleres av deltakerne. Erling bør oppmuntre til klart og forståelig spark slik at alle interessenter og gruppemedlemmer kan bidra, uansett bakgrunn. Teknisk, politisk og administrativ terminologi må oversettes slik at alle forstår hva som blir ment. Brukerrepresentanter kan trenge forberedelsessesjoner I forkant av tekniske workshops, mens tekniske spesialister må få tydelige beskrivelser av kommunale arbeidsprosesser.
+
+Kommunikasjonen må også omfatte innbyggerne. Kommunen bør forklare hva portalen vil og ikke vil gjøre, hvordan innspill håndteres, hvilke svartider brukerne kan forvente og hvordan personopplysninger behandles. Åpenhet rundt hvilke personopplysninger som behandles, av hvem, hvorfor og hvor lenge er sentralt for å bygge tillit blant innbyggerne.
+
+Til slutt bør Erling være et forbilde for den kommunikasjonskulturen han ønsker å skape. Han bør lytte for han konkluderer, anerkjenne usikkerhet, invitere til motstridende synspunkter, reagere forutsigbart og oppsummere beslutninger. Dersom prosjektlederen straffer personer som deler ubehagelige nyheter vil kommunikasjonssystemene fort bli symbolske. Tidlige varsler bør møtes med konstruktiv oppmerksomhet slik at det er større sannsynlighet for at teamet tar opp problemer mens de fortsatt er håndterbare.
+
+# Konklusjon
+
+Erlings viktigste oppgave i etableringsfasen er å sape de sosiale og ledelsesmessige forutseningene som gjør det mulig for en mangfoldig gruppe å fungere som ett samlet prosjektteam. Dette krever mer enn å rekruttere dyktige og kompetente personer. Han må sikre balansert kompetanse, reell tilgjengelighet, felles formål og tilstrekkelig relasjonell tillit.
+
+Det første møtet bør kombinere avklaring av mandat, utforskning og innbyggerverdi, rolleavklaring, risikoidentifisering og relasjonsbygging. En relasjonsavtale bør supplere det formelle prosjektmandatet ved å definere gjensidige forventninger, beslutningsatferd og eskaleringsprinsipper. Konflikter bør synliggjøres gjennom faste mekanismer og håndteres i henhold til avtalt konfliktstige. Prosjektet må ledes gjennom en beskyttet utforskningsfase, tidlig testing av risikofylte antakelser og en iterativ implementasjon basert på MoSCoW-metoden hvor tilstrekkelig testing, sikkerhet og personvern prioriteres.
+
+Kommunikasjonen må være strukturert, inkluderende og transparent. Erling er ansvarlig for å etablere praksiser som muliggjør denne typen kommunikasjon tidlig i prosjektet. Dette vil gjøre teamet hans bedre rustet til å håndtere politiske forventninger, teknisk usikkerhet og tverrfaglig uenighet. Resultatet er ikke nødvendigvis et vellykket prosjekt, snarere et godt utgangspunkt for å kunne levere i henhold til de forventninger og krav som stilles.
+
+# Egenevaluering
+
+## 1. Hensiktsmessighet og etterlevelse
+
+• På hvilke områder fungerte kontrakten godt for å sikre fremdrift,
+
+ansvarsfordeling og kommunikasjon?
+
+Kontrakten fungerte godt med blant annet at vi fikk tydelig avklart hvilke kommunikasjonskanaler vi skulle bruke. Dette gjorde at vi kjapt fikk en plattform hvor alle vet at forskjellige beskjeder, spørsmål og avtaler blir lagd. Dette er viktig slik at alle får med seg hva som skjer i gruppen, og er inkludert i veien videre.
+
+• Ble reglene dere ble enige om faktisk fulgt i hverdagen, eller ble
+
+kontrakten et "glemt dokument"? Gi konkrete eksempler.
+
+Det virket som at kontrakten ble raskt glemt for enkelte. Et eksempel på dette er at vi hadde tydelig i kontrakten at alle må melde seg på i gruppechatten, svare på meldinger, gi beskjeder hvis de ikke har anledning til å møte opp, osv. Det har ikke vært like bra hele veien, men blitt bedre etter enkelte fra gruppen har fått tilbakemelding på dette.
+
+# Oppstartspakke, del 6 av 6
+
+## 2. Svakheter og rom for forbedring
+
+• Hvilke uforutsette situasjoner, utfordringer eller friksjoner oppstod somkontrakten ikke tok høyde for?
+
+Det har ikke vært veldig mye av det kontrakten ikke tok høyde for, men kanskje en økt frustrasjon når noen er bedre til å gi lyd fra seg, mens noen gir ikke lyd fra seg i det hele tatt. Men vi har sett bedring etter det ble sendt ut beskjed om at det måtte skjerpes. Alt som står i kontrakten, føler vi er tatt høyde for og at folk er blitt flinkere på å gi beskjed dersom det skulle være noe.
+
+• Var formuleringene for vage (f.eks. "alle må bidra like mye" eller "vi skal
+
+møte tidsnok"), og hvordan påvirket dette samarbeidet?
+
+Merker kanskje at på prioriterings nivået som alle satte 80% på er kanskje litt lavere enn 80. Det har vært litt uforutsett sykdom, og en del på gruppen som har jobb ved siden av studier, derfor er det ekstra viktig for oss på gruppen at kommunikasjonen er på plass. Vi prøver å sette frister i god tid samt møter slik at vi kan komme tidlig i gang med oppgaver/prosjekter. Vi føler at engasjement ligger mer hos noen enn hos andre i fordeling av oppgaver og å få folk litt i gang, men bidrag av oppgavene skjer på lik linje og det har ikke oppstått noen store problemer ennå, annet enn kommunikasjon problemer.
+
+## 3. Erfaringer og råd for fremtidig prosjektarbeid
+
+• Med den erfaringen dere har opparbeidet nå: Hvilke konkrete råd vildere gi til dere selv ved inngåelse av fremtidige gruppekontrakter?
+
+Gruppekontrakten i seg selv syntes vi er ganske bra, men gjerne at folk er litt mer ærlige i den. Spesielt når det kommer til prioriterings nivå, motivasjon, osv. Det har vært tider med svært dårlig kommunikasjon, hvor folk enten glemmer å gi beskjed om at de ikke kan stille opp, eller at noen kanskje bare reagerer på meldinger istedenfor å svare ordentlig.
+
+• Hvilke spesifikke punkter (f.eks. håndtering av sykdom/fravær,
+
+forventningsavklaring om ambisjonsnivå, sanksjoner ved tidsfrister)
+
+bør alltid inkluderes og formuleres mer presist?
+
+Det bør alltid meldes i fra til gruppen hvis man ikke har mulighet til å møte opp til avtalte tidspunkt. Det bør meldes i fra så fort man vet at man blir forhindret.  
+Det er viktig at alle er ærlige om forventinger og ambisjoner. Hvis ikke man er ærlig om dette ender man opp med mye frustrasjon over hverandre. Det kan påvirke negativt på arbeidet.  
+Tidsfrister skal alltid overholdes. Det er helt fundamentalt at det blir overholdt etter det er blitt gjort avtaler. Ved spesielle uforutsette hendelser, kan man selvfølgelig få tilpasset tidsfrister, men her er kommunikasjon nøkkelen. Ved situasjoner som gjør at man må endre tidsfrister må man informere om dette så fort det lar seg gjøre.
+
+# Referanser 
+
+Ardoq. (2026, 09 09). *Business Capability Map: The Concise Guide to Mapping Business Capabilities and Examples*. Retrieved from Ardoq: https://www.ardoq.com/knowledge-hub/business-capability-map
+
+Digdir. (2026, 09 09). *Overordnede arkitekturprinsipper*. Retrieved from Digdirs hjemmeside: https://www.digdir.no/digital-samhandling/overordnede-arkitekturprinsipper/1065
+
+Villax, C., & Anantatmula, V. (2010). Understanding and managing conflict in a project environment. *PMI® Research Conference: Defining the Future of Project Management*.
+
+Wikipedia. (2026, 09 14). *MoSCoW method*. Retrieved from Wikipedia: https://en.wikipedia.org/wiki/MoSCoW_method
+
+# Vedlegg I: RASCI Matrix
+
+| **Bokstav** | **Betydning** | **Beskrivelse** |
+|----|----|----|
+| **R** | **Responsible (Ansvarlig for utførelse)** | Personen eller personene som utfører arbeidet og sørger for at oppgaven blir gjennomført. |
+| **A** | **Accountable (Beslutningsansvarlig)** | Personen som har det endelige ansvaret for resultatet og som godkjenner leveransen. Det bør normalt kun være én beslutningsansvarlig per oppgave. |
+| **S** | **Supportive (Støttende)** | Personer som aktivt bistår de utførende med ressurser, kompetanse eller arbeidsinnsats. |
+| **C** | **Consulted (Konsulteres)** | Fagpersoner eller interessenter som gir innspill før beslutninger tas. Kommunikasjonen går begge veier. |
+| **I** | **Informed (Informeres)** | Personer som skal holdes orientert om fremdrift eller beslutninger. Kommunikasjonen går én vei. |
 
