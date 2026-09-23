@@ -10,7 +10,7 @@
 
 # Innholdsfortegnelse
 
-[1 Introduksjon [1](#introduksjon)](#introduksjon)
+[1 Introduksjon
 
 [2 Strategi for rekruttering og sammensetning [2](#strategi-for-rekruttering-og-sammensetning)](#strategi-for-rekruttering-og-sammensetning)
 
@@ -85,6 +85,8 @@ Prosjektgruppen kan deles inn i fire forskjellige orienteringer:
 Hvert gruppemedlem kan ha flere roller, og det er Erlings oppgave å sørge for at alle fire orienteringene er godt nok representert, samt at forholdet mellom dem er balansert. En gruppe med for mange administratorer kan føre til god dokumentasjon og struktur, men treig fremgang. For mange produsenter kan føre til rask fremgang, men kan føre til at sluttbrukernes behov blir glemt eller misforstått. For mange entreprenører har en tendens til å føre til mange endringer i scope, mens for få kan føre til en lite kreativ løsning med mye tapt potensiale.
 
 Den politiske rådgiveren og brukerrepresentantene står sentralt i integrasjonsrollen. De bør imidlertid også bidra i prioriteringsarbeid og testing. Sikkerhetseksperten må involveres fra begynnelsen av for å forankre informasjonssikkerhet i hele systemet, såkalt «Security by design». Databeskyttelse og personvern bør også være i fokus gjennom hele utviklingsprosessen. Det er mer kostnadseffektivt å adressere disse behovene tidlig sammenlignet med å forbedre et allerede eksisterende system.
+
+
 
 # Oppstartspakke, del 2 av 6
 
@@ -277,6 +279,22 @@ Erlings viktigste oppgave i etableringsfasen er å sape de sosiale og ledelsesme
 Det første møtet bør kombinere avklaring av mandat, utforskning og innbyggerverdi, rolleavklaring, risikoidentifisering og relasjonsbygging. En relasjonsavtale bør supplere det formelle prosjektmandatet ved å definere gjensidige forventninger, beslutningsatferd og eskaleringsprinsipper. Konflikter bør synliggjøres gjennom faste mekanismer og håndteres i henhold til avtalt konfliktstige. Prosjektet må ledes gjennom en beskyttet utforskningsfase, tidlig testing av risikofylte antakelser og en iterativ implementasjon basert på MoSCoW-metoden hvor tilstrekkelig testing, sikkerhet og personvern prioriteres.
 
 Kommunikasjonen må være strukturert, inkluderende og transparent. Erling er ansvarlig for å etablere praksiser som muliggjør denne typen kommunikasjon tidlig i prosjektet. Dette vil gjøre teamet hans bedre rustet til å håndtere politiske forventninger, teknisk usikkerhet og tverrfaglig uenighet. Resultatet er ikke nødvendigvis et vellykket prosjekt, snarere et godt utgangspunkt for å kunne levere i henhold til de forventninger og krav som stilles.
+
+# Egenevaluering
+
+## 1. Hensiktsmessighet og etterlevelse
+
+• På hvilke områder fungerte kontrakten godt for å sikre fremdrift,
+
+ansvarsfordeling og kommunikasjon?
+
+Kontrakten fungerte godt med blant annet at vi fikk tydelig avklart hvilke kommunikasjonskanaler vi skulle bruke. Dette gjorde at vi kjapt fikk en plattform hvor alle vet at forskjellige beskjeder, spørsmål og avtaler blir lagd. Dette er viktig slik at alle får med seg hva som skjer i gruppen, og er inkludert i veien videre.
+
+• Ble reglene dere ble enige om faktisk fulgt i hverdagen, eller ble
+
+kontrakten et "glemt dokument"? Gi konkrete eksempler.
+
+Det virket som at kontrakten ble raskt glemt for enkelte. Et eksempel på dette er at vi hadde tydelig i kontrakten at alle må melde seg på i gruppechatten, svare på meldinger, gi beskjeder hvis de ikke har anledning til å møte opp, osv. Det har ikke vært like bra hele veien, men blitt bedre etter enkelte fra gruppen har fått tilbakemelding på dette.
 
 # Oppstartspakke, del 6 av 6
 
