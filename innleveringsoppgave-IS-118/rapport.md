@@ -1,7 +1,49 @@
 \# Oppstartspakke, del 6 av 6
 
 
+# Introduksjon
 
+Erlings oppgave kombinerer en optimistisk tidsfrist, et begrenset budsjett, teknisk usikkerhet og en ambisiøs målsetning. Systemet skal utvikles og lanseres innen 15 måneder, og har variert funksjonalitet. For å oppnå målsetningen om 20% økt engasjement må systemet være brukervennlig, intuitivt, lett tilgjengelig og ha god ytelse. Videre må systemet sikres tilstrekkelig slik at innbyggernes tillit ikke settes i spill. I offentlig sektor i Norge vil Digdir sine overordnede arkitekturprinsipper være ledende (Digdir, 2026).
+
+I denne oppgaven vil vi designe en oppstartspakke som optimaliserer prosjektets «forming»-fase. Pakken inneholder forslag til team-sammensetning, agenda for første møte, rammer for relasjonelle kontrakter, konflikthåndtering, planlegging under press og råd for å sikre god kommunikasjon. Tidlig fokus på disse aspektene vil være helt nødvendig for å nå målet innenfor prosjektets rammer.
+
+# Strategi for rekruttering og sammensetning
+
+## Prosjektets behov
+
+Først må prosjektets behov kartlegges. Det vil være behov for ekspertise innen mange forskjellige fagområder som prosjektstyring, tjenestedesign, brukerkartlegging, utvikling, kommunale prosesser, informasjonssikkerhet, personvern og tilgjengelighet. Dersom Erling har et kapabilitetskart for egen organisasjon tilgjengelig, kan han benytte dette til å finne egnede medlemmer til prosjektgruppen (Ardoq, 2026).
+
+Prosjektgruppen har mange utfordringer:
+
+- Prioritering av systemkrav,
+
+- Håndtering av mange ulike interessenter med forskjellige behov
+
+- Design og testing av løsninger
+
+- Ivareta god informasjonssikkerhet og godt personvern
+
+- Sikre god ytelse, også under lansering og perioder med økt pågang
+
+Kompetansen som kreves for å møte disse utfordringene vil variere i de ulike fasene i prosjektet. Erling må skille mellom et kjerneteam med permanente medlemmer og fagspesialister som bidrar ved behov.
+
+Den planlagte prosjektgruppen vil dekke mye av kompetansen som kreves for å gjennomføre prosjektet, med unntak av noen potensielle kompetansegap: UX/UI-designeren bør ha kompetanse innen tilgjengelighet og kartlegging av brukernes behov. Videre behøver gruppen kompetanse på arkitektur som må dekkes inn av IT-avdelingen. Det er også behov for kompetanse innen lovverk, GDPR og databeskyttelse. En sikkerhetsekspert dekker ikke nødvendigvis alle disse fagområdene, spesielt når det kommer til GDPR og juss. Ved behov bør en jurist engasjeres.
+
+## Andre sentrale roller i teamarbeidet
+
+Prosjektgruppen kan deles inn i fire forskjellige orienteringer:
+
+1.  **Produksjon:** Medlemmer som gjør oppgaver om til resultater. Her hører blant annet UX/UI-designeren og IT-personnell hjemme.
+
+2.  **Administrasjon:** Medlemmer som gir prosjektet struktur i form av budsjetter, dokumentasjon, anskaffelser, rapportering og beslutningstaking.
+
+3.  **Integrasjon:** Medlemmer som kobler sammen de ulike fagdisiplinene og interessentene. Disse medlemmene bygger samhold og fungerer som oversettere mellom de tekniske, politiske og brukersentrerte perspektivene.
+
+4.  **Entreprenørskap:** Medlemmene som utforsker nye muligheter, utfordrer antakelser og utvikler innovative løsninger.
+
+Hvert gruppemedlem kan ha flere roller, og det er Erlings oppgave å sørge for at alle fire orienteringene er godt nok representert, samt at forholdet mellom dem er balansert. En gruppe med for mange administratorer kan føre til god dokumentasjon og struktur, men treig fremgang. For mange produsenter kan føre til rask fremgang, men kan føre til at sluttbrukernes behov blir glemt eller misforstått. For mange entreprenører har en tendens til å føre til mange endringer i scope, mens for få kan føre til en lite kreativ løsning med mye tapt potensiale.
+
+Den politiske rådgiveren og brukerrepresentantene står sentralt i integrasjonsrollen. De bør imidlertid også bidra i prioriteringsarbeid og testing. Sikkerhetseksperten må involveres fra begynnelsen av for å forankre informasjonssikkerhet i hele systemet, såkalt «Security by design». Databeskyttelse og personvern bør også være i fokus gjennom hele utviklingsprosessen. Det er mer kostnadseffektivt å adressere disse behovene tidlig sammenlignet med å forbedre et allerede eksisterende system.
 
 \## 2. Svakheter og rom for forbedring
 
