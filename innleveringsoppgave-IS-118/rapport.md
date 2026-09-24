@@ -10,37 +10,37 @@
 
 # Innholdsfortegnelse
 
-[1 Introduksjon] (#Introduksjon)
+[1 Introduksjon](#introduksjon)
 
-[2 Strategi for rekruttering og sammensetning] (#strategi-for-rekruttering-og-sammensetning)
+[2 Strategi for rekruttering og sammensetning](#strategi-for-rekruttering-og-sammensetning)
 
-[2.1 Prosjektets behov] (#prosjektets-behov)
+[2.1 Prosjektets behov](#prosjektets-behov)
 
-[2.2 Andre sentrale roller i teamarbeidet] (#andre-sentrale-roller-i-teamarbeidet)
+[2.2 Andre sentrale roller i teamarbeidet](#andre-sentrale-roller-i-teamarbeidet)
 
-[2.3 Mangfold, konflikter og rekruttering] (#mangfold-konflikter-og-rekruttering)
+[2.3 Mangfold, konflikter og rekruttering](#mangfold-konflikter-og-rekruttering)
 
-[2.4 Tilstrekkelig representasjon] (#tilstrekkelig-representasjon)
+[2.4 Tilstrekkelig representasjon](#tilstrekkelig-representasjon)
 
-[3 Oppstartsmøte (Kick-off)] (#oppstartsmøte-kick-off)
+[3 Oppstartsmøte (Kick-off)](#oppstartsmøte-kick-off)
 
-[3.1 Foreslått agenda] (#foreslått-agenda)
+[3.1 Foreslått agenda](#foreslått-agenda)
 
-[3.2 Videreføring av pseudo-arbeid] (#videreføring-av-pseudo-arbeid)
+[3.2 Videreføring av pseudo-arbeid](#videreføring-av-pseudo-arbeid)
 
-[4 Rammeverk for relasjonelle kontrakter] (#rammeverk-for-relasjonelle-kontrakter)
+[4 Rammeverk for relasjonelle kontrakter](#rammeverk-for-relasjonelle-kontrakter)
 
-[4.1 Suksesskriterier og samarbeid mellom prosjekteier og prosjektleder] (#suksesskriterier-og-samarbeid-mellom-prosjekteier-og-prosjektleder)
+[4.1 Suksesskriterier og samarbeid mellom prosjekteier og prosjektleder](#suksesskriterier-og-samarbeid-mellom-prosjekteier-og-prosjektleder)
 
-[5 Konflikthåndtering] (#konflikthåndtering)
+[5 Konflikthåndtering](#konflikthåndtering)
 
-[6 Håndtering av tidspress og planleggingsfellen] (#håndtering-av-tidspress-og-planleggingsfellen)
+[6 Håndtering av tidspress og planleggingsfellen](#håndtering-av-tidspress-og-planleggingsfellen)
 
-[7 Sikring av god kommunikasjon] (#sikring-av-god-kommunikasjon)
+[7 Sikring av god kommunikasjon](#sikring-av-god-kommunikasjon)
 
-[8 Konklusjon] (#konklusjon)
+[8 Konklusjon](#konklusjon)
 
-[Referanser (#referanser)
+[Referanser](#referanser)
 
 # Introduksjon
 
