@@ -1,10 +1,9 @@
 ## Gruppemedlemmer
-- Sebastian Montecinos
-- Simen Tokerud
 - Jakob Syvertsen Bratlie
 - Jesper Brodersen
 - Iben Therkelsen Ervik
 - Yonatan Tekie Mogos
+- Simen Tokerud
 
 # Oppstartspakke
 
