@@ -172,4 +172,3 @@ else:
     print("Erling må fortsette arbeidet med tillit og samarbeid.")
 
 print()
-print("Takk for at du spilte historien om Erling!")
