@@ -5,279 +5,255 @@
 - Yonatan Tekie Mogos
 - Simen Tokerud
 
-# Oppstartspakke
+**Oppstartspakke**
 
-# Innholdsfortegnelse
+Innholdsfortegnelse
 
-[1 Introduksjon](#introduksjon)
+1 Introduksjon
 
-[2 Strategi for rekruttering og sammensetning](#strategi-for-rekruttering-og-sammensetning)
+2 Strategi for rekruttering og sammensetning
 
-[2.1 Prosjektets behov](#prosjektets-behov)
+2.1 Prosjektets behov
 
-[2.2 Andre sentrale roller i teamarbeidet](#andre-sentrale-roller-i-teamarbeidet)
+2.2 Andre sentrale roller i teamarbeidet
 
-[2.3 Mangfold, konflikter og rekruttering](#mangfold-konflikter-og-rekruttering)
+2.3 Mangfold, konflikter og rekruttering
 
-[2.4 Tilstrekkelig representasjon](#tilstrekkelig-representasjon)
+2.4 Tilstrekkelig representasjon
 
-[3 Oppstartsmøte (Kick-off)](#oppstartsmøte-kick-off)
+3 Oppstartsmøte (Kick-off)
 
-[3.1 Foreslått agenda](#foreslått-agenda)
+3.1 Foreslått agenda
 
-[3.2 Videreføring av pseudo-arbeid](#videreføring-av-pseudo-arbeid)
+3.2 Videreføring av pseudo-arbeid
 
-[4 Rammeverk for relasjonelle kontrakter](#rammeverk-for-relasjonelle-kontrakter)
+4 Rammeverk for relasjonelle kontrakter
 
-[4.1 Suksesskriterier og samarbeid mellom prosjekteier og prosjektleder](#suksesskriterier-og-samarbeid-mellom-prosjekteier-og-prosjektleder)
+4.1 Suksesskriterier og samarbeid mellom prosjekteier og prosjektleder
 
-[5 Konflikthåndtering](#konflikthåndtering)
+5 Konflikthåndtering
 
-[6 Håndtering av tidspress og planleggingsfellen](#håndtering-av-tidspress-og-planleggingsfellen)
+6 Håndtering av tidspress og planleggingsfellen
 
-[7 Sikring av god kommunikasjon](#sikring-av-god-kommunikasjon)
+7 Sikring av god kommunikasjon
 
-[8 Konklusjon](#konklusjon)
+8 Konklusjon
 
-[Referanser](#referanser)
+Referanser
 
-# Introduksjon
+**1 Introduksjon**
 
-Erlings oppgave kombinerer en optimistisk tidsfrist, et begrenset budsjett, teknisk usikkerhet og en ambisiøs målsetning. Systemet skal utvikles og lanseres innen 15 måneder, og har variert funksjonalitet. For å oppnå målsetningen om 20% økt engasjement må systemet være brukervennlig, intuitivt, lett tilgjengelig og ha god ytelse. Videre må systemet sikres tilstrekkelig slik at innbyggernes tillit ikke settes i spill. I offentlig sektor i Norge vil Digdir sine overordnede arkitekturprinsipper være ledende (Digdir, 2026).
+Erlings oppgave kombinerer en optimistisk tidsfrist, et begrenset budsjett, teknisk usikkerhet og høye mål. Systemet skal utvikles og lanseres innen 15 måneder og være brukervennlig, tilgjengelig og sikker. Dette krever samarbeid på tvers av fagområder. Jacobsen (2016, s. 11–15) beskriver prosjekter som midlertidige organisasjoner med klare mål, begrensede ressurser og behov for samarbeid.
 
-I denne oppgaven vil vi designe en oppstartspakke som optimaliserer prosjektets «forming»-fase. Pakken inneholder forslag til team-sammensetning, agenda for første møte, rammer for relasjonelle kontrakter, konflikthåndtering, planlegging under press og råd for å sikre god kommunikasjon. Tidlig fokus på disse aspektene vil være helt nødvendig for å nå målet innenfor prosjektets rammer.
+Denne oppstartspakken gjelder prosjektets formingfase og tar for seg teamets sammensetning, oppstartsmøte, samarbeid, konflikthåndtering, planlegging og kommunikasjon. I formingfasen etableres gruppen, oppgaver avklares og relasjoner utvikles (Jacobsen, 2016, s. 25–31).
 
-# Strategi for rekruttering og sammensetning
+**2 Strategi for rekruttering og sammensetning**
 
-## Prosjektets behov
+2.1 Prosjektets behov
 
-Først må prosjektets behov kartlegges. Det vil være behov for ekspertise innen mange forskjellige fagområder som prosjektstyring, tjenestedesign, brukerkartlegging, utvikling, kommunale prosesser, informasjonssikkerhet, personvern og tilgjengelighet. Dersom Erling har et kapabilitetskart for egen organisasjon tilgjengelig, kan han benytte dette til å finne egnede medlemmer til prosjektgruppen (Ardoq, 2026).
+Erling bør først kartlegge prosjektets oppgaver og nødvendig kompetanse. Jacobsen (2016, s. 14–17) understreker at oppgaver, mennesker og ressurser må ses i sammenheng. Portalen krever kompetanse innen prosjektledelse, tjenestedesign, brukerkartlegging, utvikling, kommunale prosesser, informasjonssikkerhet, personvern og universell utforming. Kompetansen må mobiliseres i lys av oppgavene den skal brukes til.
+
+Kartleggingen bør munne ut i en oversikt over oppgaver, ansvar og nødvendig kompetanse. Det kan skilles mellom kompetanse som må være tilgjengelig hver uke, og kompetanse som bare trengs ved bestemte beslutninger eller milepæler. En slik oversikt gjør det lettere å oppdage om prosjektet er sårbart fordi én person sitter med kunnskap som ingen andre har. Erling bør også avklare hvem som kan overta kritiske oppgaver ved fravær. Dette er en praktisk konsekvens av å tilpasse organiseringen til oppgaven og ressursene.
 
 Prosjektgruppen har mange utfordringer:
 
 - Prioritering av systemkrav,
-
 - Håndtering av mange ulike interessenter med forskjellige behov
-
 - Design og testing av løsninger
-
 - Ivareta god informasjonssikkerhet og godt personvern
-
 - Sikre god ytelse, også under lansering og perioder med økt pågang
 
-Kompetansen som kreves for å møte disse utfordringene vil variere i de ulike fasene i prosjektet. Erling må skille mellom et kjerneteam med permanente medlemmer og fagspesialister som bidrar ved behov.
+Kompetansebehovet endres gjennom prosjektet. Erling bør derfor ha et fast kjerneteam og hente inn fagspesialister ved behov. Gruppestørrelsen må tilpasses oppgavene, siden store grupper krever mer koordinering (Jacobsen, 2016, s. 22–24, 32–36).
 
-Den planlagte prosjektgruppen vil dekke mye av kompetansen som kreves for å gjennomføre prosjektet, med unntak av noen potensielle kompetansegap: UX/UI-designeren bør ha kompetanse innen tilgjengelighet og kartlegging av brukernes behov. Videre behøver gruppen kompetanse på arkitektur som må dekkes inn av IT-avdelingen. Det er også behov for kompetanse innen lovverk, GDPR og databeskyttelse. En sikkerhetsekspert dekker ikke nødvendigvis alle disse fagområdene, spesielt når det kommer til GDPR og juss. Ved behov bør en jurist engasjeres.
+Gruppen dekker mye av kompetansebehovet, men UX/UI-designeren bør kunne brukernes behov og tilgjengelighet. IT-avdelingen bør bidra med arkitekturkompetanse, og personvern bør vurderes særskilt. Juridiske spørsmål kan kreve en jurist eller personvernressurs (Jacobsen, 2016, s. 14–17, 32).
 
-## Andre sentrale roller i teamarbeidet
+2.2 Andre sentrale roller i teamarbeidet
 
-Prosjektgruppen kan deles inn i fire forskjellige orienteringer:
+Jacobsen (2016, s. 32–34) beskriver fire sentrale funksjoner eller orienteringer som bør være ivaretatt i en prosjektgruppe:
 
-1.  **Produksjon:** Medlemmer som gjør oppgaver om til resultater. Her hører blant annet UX/UI-designeren og IT-personnell hjemme.
+1. **Produksjon**: Medlemmer som gjør oppgaver om til resultater. Her hører blant annet UX/UI-designeren og IT-personell hjemme.
+2. **Administrasjon:** Medlemmer som gir prosjektet struktur i form av budsjetter, dokumentasjon, anskaffelser, rapportering og beslutningstaking.
+3. **Integrasjon:** Medlemmer som kobler sammen de ulike fagdisiplinene og interessentene. Disse medlemmene bygger samhold og fungerer som oversettere mellom de tekniske, politiske og brukersentrerte perspektivene.
+4. **Entreprenørskap:** Medlemmene som utforsker nye muligheter, utfordrer antakelser og utvikler innovative løsninger.
 
-2.  **Administrasjon:** Medlemmer som gir prosjektet struktur i form av budsjetter, dokumentasjon, anskaffelser, rapportering og beslutningstaking.
+Hver person kan ha flere roller; det viktige er at gruppen samlet dekker alle funksjonene. For mye administrasjon kan gi god struktur, men lavere framdrift. For mye produksjon kan svekke koordinering og helhet, mens for lite entreprenørskap kan begrense nye løsninger. Erling bør vurdere balansen i gruppen.
 
-3.  **Integrasjon:** Medlemmer som kobler sammen de ulike fagdisiplinene og interessentene. Disse medlemmene bygger samhold og fungerer som oversettere mellom de tekniske, politiske og brukersentrerte perspektivene.
+Funksjonene bør ikke bare vurderes ved oppstart, men følges opp gjennom prosjektet. I en tidlig fase kan entreprenørskap og integrasjon være særlig viktig fordi gruppen må utforske behov og skape en felles forståelse. Når utviklingen går over i testing og lanseringsforberedelser, kan produksjon og administrasjon få større betydning. Erling bør derfor undersøke om balansen fortsatt passer til arbeidet som skal utføres, og justere deltakelse eller ansvar ved behov. Det betyr ikke at alle funksjoner må være representert med én egen person, men at ingen sentral funksjon blir stående uten ansvar.
 
-4.  **Entreprenørskap:** Medlemmene som utforsker nye muligheter, utfordrer antakelser og utvikler innovative løsninger.
+Den politiske rådgiveren og brukerrepresentantene kan bidra til integrasjon mellom fagmiljøer og interessenter, og delta i prioritering og testing. Sikkerhets- og personvernkompetanse bør involveres tidlig (Jacobsen, 2016, s. 14–17, 32–34).
 
-Hvert gruppemedlem kan ha flere roller, og det er Erlings oppgave å sørge for at alle fire orienteringene er godt nok representert, samt at forholdet mellom dem er balansert. En gruppe med for mange administratorer kan føre til god dokumentasjon og struktur, men treig fremgang. For mange produsenter kan føre til rask fremgang, men kan føre til at sluttbrukernes behov blir glemt eller misforstått. For mange entreprenører har en tendens til å føre til mange endringer i scope, mens for få kan føre til en lite kreativ løsning med mye tapt potensiale.
+2.3 Mangfold, konflikter og rekruttering
 
-Den politiske rådgiveren og brukerrepresentantene står sentralt i integrasjonsrollen. De bør imidlertid også bidra i prioriteringsarbeid og testing. Sikkerhetseksperten må involveres fra begynnelsen av for å forankre informasjonssikkerhet i hele systemet, såkalt «Security by design». Databeskyttelse og personvern bør også være i fokus gjennom hele utviklingsprosessen. Det er mer kostnadseffektivt å adressere disse behovene tidlig sammenlignet med å forbedre et allerede eksisterende system.
+Et tverrfaglig prosjekt trenger ulike perspektiver og erfaringer. Portalen må forene tekniske, administrative, politiske og brukerorienterte hensyn (Jacobsen, 2016, s. 32–34).
 
+Ulik terminologi, arbeidsmåter og syn på suksess kan gjøre samarbeidet krevende. Erling bør derfor avklare begreper, forventninger og mål, og sørge for at alle får bidra. Dette er særlig viktig i tverrfaglige prosjekter, der deltakerne kan ha ulike faglige perspektiver og arbeidsmåter (Jacobsen, 2016, s. 21–22). Et mangfold av erfaringer og kompetanse kan samtidig være en styrke for prosjektgruppen, dersom samarbeidet fungerer godt.
 
+For å forebygge slike utfordringer kan gruppen lage en felles begrepsliste for sentrale uttrykk, som «ferdig», «godkjent», «tilgjengelig» og «sikkert». Det bør også avklares hvordan beslutninger tas når faglige hensyn står mot hverandre. Utviklere kan for eksempel vektlegge teknisk kvalitet, mens brukerrepresentanter legger størst vekt på enkel bruk. Begge perspektivene er relevante, og gruppen må ha en felles måte å vurdere dem på. Dette kan redusere misforståelser og støtte koordineringen i en tverrfaglig gruppe (Jacobsen, 2016, s. 34–36).
 
-# Oppstartspakke, del 2 av 6
+Uenighet betyr ikke nødvendigvis at gruppen er feil sammensatt. Ulike syn kan avdekke problemer, men konflikter bør håndteres før de skader samarbeidet. Erling må skille mellom faglig uenighet og personkonflikter (Jacobsen, 2016, s. 57–60).
 
-## Mangfold, konflikter og rekruttering
+Ved rekruttering bør Erling vurdere både fagkompetanse og samarbeidsevne. Kandidater kan spørres om hvordan de håndterer uenighet, forklarer fagstoff og tar imot tilbakemeldinger. Tilgjengelig tid må også avklares (Jacobsen, 2016, s. 14–17, 32–36).
 
-Mangfold gir prosjektet tilgang til bredere kunnskap, flere perspektiver og sterkere representasjon av de gruppene som berøres. For denne portalen er faglig mangfold både nødvendig og ønskelig, fordi ingen enkelt kommunal avdeling har full forståelse av hele tjenesten. Mangfold i perspektiver reduserer også risikoen for at kommunen utvikler en løsning som fungerer godt internt, men som ikke oppfyller innbyggernes behov.
+2.4 Tilstrekkelig representasjon
 
-Mangfold kan imidlertid medføre koordineringskostnader. Deltakerne kan bruke ulik terminologi, arbeide i forskjellig tempo og ha ulike oppfatninger av hva som kjennetegner suksess. IT-personell kan legge størst vekt på stabilitet og integrasjon, kulturavdelingen på deltakelse, planleggingspersonell på formell saksbehandling, politikere på offentlig synlighet, og brukerrepresentanter på enkelhet og responsivitet.
+De to innbyggerrepresentantene bør ha ulike erfaringer og brukersituasjoner, for eksempel ulik digital erfaring eller ulike behov for tilgjengelighet. Målet er å tilføre gruppen perspektiver den ellers kan mangle (Jacobsen, 2016, s. 32–34).
 
-Konflikter i prosjektet er derfor ikke nødvendigvis et tegn på at rekrutteringen har mislyktes. Prosjekter samler mennesker med ulike fagområder, forventninger, verdier og kunnskap, noe som gjør uenighet sannsynlig. Når faglige konflikter håndteres på en god måte, kan de bidra til bedre løsninger, mens ukontrollerte relasjonelle konflikter kan skade prosjektet. (Villax & Anantatmula, 2010).
+Erling bør også hente inn synspunkter fra flere sluttbrukere gjennom intervjuer, brukertesting eller workshops. Slik kan teamet undersøke om løsningen fungerer for ulike brukergrupper.
 
-I rekrutteringen bør Erling ha fokus på samarbeidsevne og teknisk ekspertise. Spør kandidatene hvordan de håndterer uenighet, forklarer tekniske detaljer til ikke-tekniske personer eller be dem beskrive en situasjon hvor de endret standpunkt basert på tilbakemeldinger. Det må også stilles krav til tilgjengelighet: En god skikket teknisk ressurs med mye kompetanse tilfører lite verdi til prosjektet dersom vedkommende ikke har tid til å delta aktivt eller ikke er tilgjengelig ved behov.
+**3 Oppstartsmøte (Kick-off)**
 
-## Tilstrekkelig representasjon
+Oppstartsmøtet bør være en strukturert workshop som både fordeler oppgaver, avklarer forventninger og bygger relasjoner. Det første møtet er viktig for å etablere kontakt, roller og felles forståelse.
 
-De to innbyggerrepresentantene bør gjenspeile ulike brukersituasjoner. Ideelt sett bør den ene representere de digitalt kompetente brukerne, mens den andre bør bidra med forståelse for innbyggere som møter barrierer knyttet til tilgjengelighet, språk, alder eller digitale ferdigheter. Begge må få tilgang til den samme informasjonen som de øvrige medlemmene i prosjektgruppen og ha reell innflytelse på kravspesifikasjon, beslutninger og testing av løsningen.
+Før møtet bør Erling sende ut mandat, foreløpig mål, deltakerliste og praktisk informasjon. Deltakerne bør få vite hva de forventes å forberede, men også hvilke spørsmål som fortsatt er åpne. Etter møtet bør han sende en kort oppsummering med beslutninger, ansvarlige og frister. På den måten blir oppstarten koblet til det videre arbeidet, og deltakerne får et felles utgangspunkt. Dette støtter formålet med formingfasen: å etablere relasjoner og avklare hvordan gruppen skal arbeide sammen (Jacobsen, 2016, s. 31–39; Tuckman, 1965).
 
-Erling bør også vurdere å involvere et bredere panel av sluttbrukere utenfor kjerneteamet. Dette kan for eksempel inkludere en blanding av yngre og eldre innbyggere, personer med funksjonsnedsettelse og innbyggere med begrenset norskkunnskap. På denne måten kan kjerneteamet underbygge sine designantakelser. Dette er spesielt viktig for å unngå digital eksklusjon og sørge for at systemet er brukbart for alle brukergrupper, ikke bare den gjennomsnittlige innbygger.
-
-# Oppstartsmøte (Kick-off)
-
-Oppstartsmøtet bør, dersom det er mulig, gjennomføres som en heldags fysisk workshop. Hensikten er ikke bare å fordele oppgaver. Det skal skape en felles forståelse av prosjektet, etablere psykologisk trygghet og resultere i konkrete avtaler om samarbeid.
-
-## Foreslått agenda
+3.1 Foreslått agenda
 
 **09:00–09:30: Uformell ankomst og relasjonsbygging**
 
-Kaffe og introduksjoner i par. Hver deltaker forteller om sin bakgrunn, hva de håper portalen skal oppnå, og én bekymring de har. Dette er et eksempel på formålstjenlig «pseudo-arbeid», aktiviteter som kanskje ikke gir umiddelbare tekniske leveranser, men som bygger kjennskap, tillit og samarbeidsgrunnlag.
+Deltakerne introduserer seg i par og deler bakgrunn, forventninger og bekymringer. Det kan gjøre det lettere å ta kontakt og dele informasjon senere (Jacobsen, 2016, s. 37–39).
 
 **09:30–10:00: Prosjekteiers åpning og prosjektmandat**
 
-Prosjekteieren forklarer hvorfor kommunen investerer 8 millioner kroner, hvilke politiske forventninger som finnes, den 15 måneder lange tidsrammen, og grensene for Erlings myndighet som prosjektleder. Det bør også tydeliggjøres hva som allerede er besluttet, og hvilke spørsmål som fortsatt er åpne.
+Prosjekteieren forklarer hvorfor kommunen investerer i prosjektet, politiske forventninger, tidsrammen på 15 måneder og prosjektlederens beslutningsmyndighet. Skill mellom det som er bestemt, og det som fortsatt er åpent (Jacobsen, 2016, s. 37–42).
 
 **10:00–10:45: Øvelse om innbyggerverdi**
 
-Små grupper skriver korte fremtidsscenarier som beskriver hvordan ulike innbyggere vil bruke portalen. Deretter identifiserer de hvilke forutsetninger som må være oppfylt for at tjenesten skal øke engasjement og åpenhet. Dette flytter diskusjonen fra funksjonalitet til samfunnsverdi.
+Små grupper beskriver hvordan ulike innbyggere vil bruke portalen, og hva som må til for at den skal skape verdi. Øvelsen synliggjør brukerbehov og ulike perspektiver.
 
 **10:45–11:30: Definisjon av suksess**
 
-Teamet omsetter ambisjonen om en økning på 20 prosent til målbare indikatorer. Engasjement kan måles gjennom antall og mangfold blant deltakere, bidrag til høringer, deltagelse på digitale møter og gjenbruk av tjenesten. Åpenhet kan måles gjennom innbyggernes evne til å finne saker, forstå statusinformasjon og oppleve kommunale prosesser som transparente. Baseline, datakilder og ansvar for måling bør identifiseres.
-
-# Oppstartspakke, del 3 av 6
+Teamet konkretiserer målet om 20 prosent økt engasjement og hvordan det skal måles, for eksempel gjennom deltakelse i høringer, digitale møter og gjenbruk av tjenesten. Avklar utgangspunkt, datakilder og måleansvar. Klare mål er viktige for å kunne vurdere resultatet (Jacobsen, 2016, s. 12–13).
 
 **11:30–12:00: Antakelser og usikkerheter**
 
-Deltakerne noterer individuelt sine antakelser og risikoer før de grupperes under kategoriene brukerforhold, politikk, juss, sikkerhet, teknologi og organisasjon. Eksempler kan være innbyggeradopsjon, krav til autentisering, kompleksitet i systemintegrasjoner og kapasitet til moderering.
+Deltakerne skriver ned antakelser og risikoer, som deretter sorteres etter brukerbehov, politikk, juss, sikkerhet, teknologi og organisasjon. Dette synliggjør usikkerhet tidlig (Jacobsen, 2016, s. 47–49).
 
 **12:00–12:45: Felles lunsj**
 
-Lunsjen bør ikke fylles med presentasjoner. Uformelle samtaler er en viktig del av prosjektets relasjonelle infrastruktur.
+Lunsjen gir rom for uformelle samtaler og relasjonsbygging, som er viktig i oppstartsfasen (Jacobsen, 2016, s. 37–39).
 
 **12:45–13:30: Roller, ansvar og beslutningsmyndighet**
 
-Erling presenterer et utkast til ansvarsfordelingsmatrise (RASCI Matrix). Teamet diskuterer hvem som er ansvarlig, beslutter, støtter, konsulteres og informeres, se vedlegg I for en nærmere beskrivelse av matrisen. Diskusjonen bør omfatte prioritering av omfang, godkjenning av design, aksept av sikkerhetsrisiko, budsjettendringer og kommunikasjon med politiske organer.
+Erling presenterer en RASCI-matrise. Teamet avklarer hvem som utfører, beslutter, støtter, konsulteres og informeres. Dette bør omfatte omfang, design, risiko, budsjett og politisk kommunikasjon (Jacobsen, 2016, s. 16–17, 37–42).
 
 **13:30–14:15: Workshop for teamcharter**
 
-Deltakerne definerer forventet adferd knyttet til møteforberedelser, responstid, dokumentasjon, konstruktiv uenighet, konfidensialitet, inkludering og hvordan man ber om hjelp. Resultatet dokumenteres i et teamcharter på én side.
+Teamet lager et kort charter med forventninger til møter, responstid, dokumentasjon, uenighet, konfidensialitet, inkludering og hjelpesøking. Dette tydeliggjør normer for samarbeid (Jacobsen, 2016, s. 73–77; Aakre & Mørkve, 2024).
 
 **14:15–15:00: Leveransemodell og milepæler**
 
-Erling presenterer en hybrid arbeidsmodell som kombinerer faste styringspunkter med iterativ utvikling. Teamet skisserer faser for innsiktsarbeid, prototypeutvikling, minimum levedyktig tjeneste (MVP), pilotering, produksjonsklargjøring og lansering.
+Teamet skisserer milepæler for innsikt, prototyper, minimumsløsning, pilot, produksjonsklargjøring og lansering. Planen må være realistisk og ta høyde for usikkerhet (Jacobsen, 2016, s. 45–49).
 
 **15:00–15:30: Konfliktsimulering**
 
-Teamet diskuterer en hypotetisk konflikt, for eksempel at sikkerhetskrav forsinker en populær funksjon. Deltakerne øver på den foreslåtte eskaleringsprosessen og utforsker interessene som ligger bak de ulike standpunktene.
+Teamet diskuterer en mulig konflikt, for eksempel at sikkerhetskrav forsinker en funksjon. Deltakerne øver på å beskrive uenigheten, interessene bak og mulige løsninger (Jacobsen, 2016, s. 66–69).
 
 **15:30–16:00: Umiddelbare tiltak og refleksjon**
 
-Alle tiltak får en ansvarlig person og en frist. Møtet avsluttes med en oppsummering der hver deltaker reflekterer over hva som er klart, hva som fortsatt er uklart, og hva vedkommende trenger fra teamet videre.
+Avslutt med tiltak, ansvarlige og frister. Oppsummer hva som er avklart, hva som er uklart, og hva gruppen trenger videre (Jacobsen, 2016, s. 16–17, 37–39).
 
-## Videreføring av pseudo-arbeid
+3.2 Videreføring av pseudo-arbeid
 
-Pseudo-arbeid bør fortsette også etter oppstartsmøtet gjennom sporadiske felles lunsjer, korte personlige innsjekkinger og demonstrasjoner etterfulgt av uformelle diskusjoner. Disse aktivitetene bør være balanserte, inkluderende og knyttet til samarbeid og prosjektgjennomføring. De bidrar til å redusere den sosiale avstanden som ellers kan gjøre det vanskelig for prosjektmedlemmer å ta opp utfordringer og problemer på et tidlig tidspunkt.
+Pseudo-arbeid bør fortsette også etter oppstartsmøtet gjennom sporadiske felles lunsjer, korte personlige innsjekkinger og demonstrasjoner etterfulgt av uformelle diskusjoner. Disse aktivitetene bør være balanserte, inkluderende og knyttet til samarbeid og prosjektgjennomføring. De bidrar til å redusere den sosiale avstanden som ellers kan gjøre det vanskelig for prosjektmedlemmer å ta opp utfordringer og problemer på et tidlig tidspunkt. Slike aktiviteter kan også støtte teamets utvikling fra etablering og uenighet mot mer velfungerende samarbeid (Tuckman, 1965).
 
-# Rammeverk for relasjonelle kontrakter
+**4 Rammeverk for relasjonelle kontrakter**
 
-Relasjonelle kontrakter er ofte uformelle avtaler og tar for seg hvordan mennesker samhandler. Gjensidige forventninger og fremtidig verdi fra relasjonen står sentralt. Denne typen kontrakter er vanlige på tvers av og internt i organisasjoner, og er nødvendige for å opprettholde god tillit mellom gruppemedlemmene. Erling bør derfor oppmuntre til inngåelse av relasjonelle kontrakter i sitt team.
+Prosjektarbeid styres ikke bare av formelle avtaler, men også av forventninger, normer og relasjoner. Disse påvirker samarbeid, informasjonsdeling og håndtering av uenighet. En samarbeidsavtale bør derfor beskrive hvordan gruppen skal arbeide sammen.
 
-Her er et forslag til teamaer med eksempler som teamet som bør ta opp:
+Normene bør være konkrete nok til at gruppen kan bruke dem i hverdagen. Det er for eksempel mer nyttig å avtale at fravær meldes i gruppekanalen så snart som mulig, enn å skrive at alle skal kommunisere godt. Gruppen bør også bli enig om hvordan uenighet tas opp, hvor beslutninger dokumenteres, og hvor raskt medlemmene forventes å svare. Normene må være realistiske og gjelde alle, også prosjektleder. De bør evalueres etter noen uker, slik at gruppen kan endre regler som ikke fungerer. Dette gjør de uformelle forventningene tydeligere og kan bidra til tillit (Jacobsen, 2016, s. 42–44, 73–77).
 
-1.  **Felles formål:** En erklæring om at portalen eksisterer for å skape tilgjengelig og tillitsvekkende medvirkning, ikke bare for å innføre ny teknologi.
+Følgende temaer bør tas opp når teamet utarbeider sine felles samarbeidsnormer:
 
-2.  **Gjensidige forpliktelser:** Erling forplikter seg til transparent rapportering og tidlig eskalering av utfordringer.
+1. **Felles formål:** En erklæring om at portalen eksisterer for å skape tilgjengelig og tillitsvekkende medvirkning, ikke bare for å innføre ny teknologi.
+2. **Gjensidige forpliktelser:** Erling forplikter seg til transparent rapportering og tidlig eskalering av utfordringer.
+3. **Beslutningsfrist:** Beslutninger tas innen en avtalt tidsramme, for eksempel fem arbeidsdager, med mindre beslutningen krever behandling i bystyret.
+4. **Dårlig nytt:** Dårlige nyheter rapporteres uten unødig opphold og skal ikke føre til skyldfordeling.
+5. **Konstruktiv utfordring:** Alle parter kan stille spørsmål ved forutsetninger, estimater og prioriteringer uten at uenighet oppfattes negativt.
+6. **Endringsprosess:** Vesentlige endringer vurderes ut fra innbyggerverdi, kostnad, tidsplan, risiko og driftsmessige konsekvenser før de godkjennes.
+7. **Eskalering og mekling:** Uavklarte uenigheter mellom eier og prosjektleder løftes til et utpekt medlem av styringsgruppen eller en nøytral kommunal leder.
 
-3.  **Beslutningsfrist:** Beslutninger tas innen en avtalt tidsramme, for eksempel fem arbeidsdager, med mindre beslutningen krever behandling i bystyret.
+4.1 Suksesskriterier og samarbeid mellom prosjekteier og prosjektleder
 
-4.  **Dårlig nytt:** Dårlige nyheter rapporteres uten unødig opphold og skal ikke føre til skyldfordeling.
+Suksess bør vurderes ut fra mer enn tid, kostnad og kvalitet. For portalen er også brukernes opplevelse, tilgjengelighet, sikkerhet og videre drift viktig. Klare mål gjør det mulig å vurdere resultatene (Jacobsen, 2016, s. 12–13).
 
-5.  **Konstruktiv utfordring:** Alle parter kan stille spørsmål ved forutsetninger, estimater og prioriteringer uten at uenighet oppfattes negativt.
+Prosjekteier har overordnet styring og tar beslutninger utenfor prosjektlederens mandat. Erling leder det daglige arbeidet innenfor avtalte rammer. Ansvar, forventninger og myndighet må avklares for å unngå konflikter (Jacobsen, 2016, s. 40–44).
 
-6.  **Endringsprosess:** Vesentlige endringer vurderes ut fra innbyggerverdi, kostnad, tidsplan, risiko og driftsmessige konsekvenser før de godkjennes.
+**5 Konflikthåndtering**
 
-7.  **Eskalering og mekling:** Uavklarte uenigheter mellom eier og prosjektleder løftes til et utpekt medlem av styringsgruppen eller en nøytral kommunal leder.
+Konflikter kan skyldes ulike mål, interesser, faglige vurderinger eller forventninger. De kan utvikle seg fra latente motsetninger til åpne konflikter. Erling bør skille mellom saklig uenighet og personkonflikter.
 
-## Suksesskriterier og samarbeid mellom prosjekteier og prosjektleder
+Det er nyttig å skille mellom konflikt om sak, konflikt om prosess og konflikt mellom personer. En sakskonflikt kan handle om hvilken funksjon som skal prioriteres. En prosesskonflikt kan oppstå dersom det er uklart hvem som har myndighet til å godkjenne en endring. En personkonflikt kan utvikle seg dersom kritikk av en løsning blir oppfattet som kritikk av personen som foreslo den. Erling bør undersøke hva konflikten faktisk gjelder før han velger tiltak. En slik avklaring gjør det lettere å velge en håndtering som passer situasjonen (Jacobsen, 2016, s. 57–64).
 
-Suksesskriterier bør fokusere på flere aspekter enn jerntriangelet. Tid, kostnad og kvalitet er viktige aspekter, men brukeradopsjon, tilgjengelighet, sikkerhet og mulighet for vedlikehold og videre utvikling er også viktige. En portal som lanseres i tide og har sikkerhetshull som fører til tillitsbrudd mellom system og bruker kan ikke betraktes som vellykket.
+Erling kan føre en enkel logg over uavklarte spørsmål og konkurrerende krav. Registrer saken, hvem som berøres, hvilken beslutning som trengs og hvem som følger den opp. Loggen er et praktisk forslag for å synliggjøre uenigheter tidlig.
 
-Godt samarbeid mellom prosjekteier og prosjektleder er essensielt for sluttproduktet. Prosjekteier er ansvarlig for strategisk/langsiktig styring av prosjektet, og bør unngå detaljstyring. Eier er ansvarlig for å akseptere risiko og stake ut kursen for prosjektgruppen. Erling som prosjektleder styrer det daglige og operasjonelle. Avvik og unntak bør om mulig håndteres av prosjektleder, og kun eskaleres til prosjekteier ved behov.
-
-# Oppstartspakke, del 4 av 6
-
-# Konflikthåndtering
-
-Prosjektgruppen bør lære av konflikter. Uenighet om oppgaver kan avdekke risikoer eller forbedre beslutninger. Personlige og prosessrelaterte konflikter bør håndteres før de vokser ut av kontroll.
-
-Erling kan føre en beslutnings- og spenningslogg. Teammedlemmer kan registrere bekymringer, uavklarte spørsmål og konkurrerende krav. Hver registrering bør inneholde en beskrivelse av problemstillingen, berørte parter, prioritet, nødvendig dokumentasjon og beslutningseier. Formålet er å synliggjøre konflikt, samt å finne løsninger sammen.
-
-Prosjektgruppen bør inkludere en kort runde hvor man tar opp bekymringer og avhengigheter på regelmessig basis, for eksempel annenhver uke. Gruppemedlemmene kan ta utgangspunkt i følgende spørsmål:
+Gruppen bør jevnlig ta opp bekymringer og avhengigheter, for eksempel annenhver uke. Tidlig oppmerksomhet kan hindre at uenigheter blir fastlåste (Jacobsen, 2016, s. 57–60, 66–69).
 
 - Hva kan blokkere oss?
-
 - Hvilke beslutninger er vi avhengige av?
-
 - Er jeg uenig i den nåværende retningen? Hvis ja, hvordan?
 
-Disse spørsmålene er med på å forhindre at stillhet tolkes som enighet.
+Disse spørsmålene synliggjør uenighet og reduserer faren for at taushet tolkes som enighet. Deltakerne må kunne ta opp problemer uten at saken blir personlig.
 
-Videre bør det etableres en konfliktstige som beskriver hvordan eskalering av en konflikt skjer:
+Gruppen bør ha en enkel prosess for å håndtere og eskalere uenigheter:
 
-1.  Diskusjon direkte mellom de involverte personene. Løsning innen to arbeidsdager.
+1. Diskusjon direkte mellom de involverte personene. Løsning innen to arbeidsdager.
+2. Dersom konflikten ikke løses, fasiliterer Erling en strukturert dialog.
+3. Hvis saken gjelder faglige standarder, gir en uavhengig ekspert råd.
+4. Hvis saken gjelder omfang, finansiering eller risikotoleranse, eskaleres den til prosjekteier eller styringsgruppe.
+5. Beslutningen og begrunnelsen dokumenteres, kommuniseres og revurderes dersom ny informasjon fremkommer.
 
-2.  Dersom konflikten ikke løses, fasiliterer Erling en strukturert dialog.
+I samtaler bør Erling skille mellom hendelser, tolkninger, interesser og mulige løsninger. «Sikkerhetseksperten blokkerer framdriften» er for eksempel en tolkning, ikke et nøytralt faktum. Konflikthåndteringen må tilpasses situasjonen (Jacobsen, 2016, s. 66–69).
 
-3.  Hvis saken gjelder faglige standarder, gir en uavhengig ekspert råd.
+Erling bør evaluere samarbeidet jevnlig. Teamet kan drøfte hva som fungerer, hva som hindrer framdrift og hvilke forbedringer som bør prøves. Teamet bør også undersøke om etablerte antakelser og arbeidsmåter bør endres. Dette støtter læring og forbedring i organisasjonen (Jacobsen, 2016, s. 73–77; Argyris, 1977).
 
-4.  Hvis saken gjelder omfang, finansiering eller risikotoleranse, eskaleres den til prosjekteier eller styringsgruppe.
+**6 Håndtering av tidspress og planleggingsfellen**
 
-5.  Beslutningen og begrunnelsen dokumentres, kommuniseres og revurderes dersom ny informasjon fremkommer.
+En fast frist kan presse gruppen til å starte utviklingen raskt. Men tidlig aktivitet kan gi en falsk følelse av framdrift hvis oppgaven og usikkerheten ikke er forstått. Planlegging må derfor bygge på realistiske antakelser.
 
-Strukturerte samtaler bør skille mellom fakta, tolkninger, interesser og posisjoner. For eksempel er utsagnet «sikkerhetseksperten blokkerer fremdriften» en tolkning. Det underliggende faktumet kan være at kravene til autentisering ikke er spesifisert. Interessene kan være å beskytte innbyggerne, unngå lovbrudd og samtidig nå lanseringsdatoen. Når interessene blir synlige, kan teamet vurdere alternativer som trinnvis funksjonalitet eller behandling av data med lavere risiko.
+Erling bør først undersøke brukerbehov, kommunale prosesser, integrasjoner, juridiske rammer og tekniske risikoer. Deretter kan teamet teste antakelser gjennom undersøkelser og prototyper. Seks til åtte uker er et forslag for dette prosjektet, ikke en tidsramme fra pensumboken.
 
-Erling bør også gjennomføre regelmessige retrospektiver etter hver utviklingssyklus. Teamet identifiserer hva som fungerte, hva som hindret fremdrift, og én eller to forbedringer som skal testes. Anonyme temperaturmålinger kan være nyttige dersom medlemmer nøler med å uttale seg åpent.
-
-# Håndtering av tidspress og planleggingsfellen
-
-Den faste tidsfristen kan skape et umiddelbart press om å anskaffe teknologi og starte utvikling. Dette er farlig fordi synlig aktivitet kan skjule svak problemforståelse. Å bygge feil tjeneste raskt sparer ikke tid.
-
-Erling bør insistere på en innledende utforskningsfase på omtrent seks til åtte uker. Teamet bør kartlegge brukerreiser, kommunale prosesser, integrasjoner, juridiske rammebetingelser, sikkerhetsrisikoer og etablerte måleparametere. Det bør også identifisere de mest risikofylte antakelsene og teste disse tidlig gjennom prototyper. Planlegging må imidlertid ikke bli et forsøk på å eliminere all usikkerhet. Erling bør starte prototyping og teknisk validering raskt etter utforskningsfasen, og iterere derfra:
+For å unngå at planleggingen blir for optimistisk, bør teamet synliggjøre hvilke antakelser tidsplanen bygger på. Det kan for eksempel være tilgang til kommunale data, avklaringer fra juridisk ansvarlig, kapasitet hos IT-avdelingen og mulighet for å rekruttere testbrukere. Hver antakelse bør knyttes til en ansvarlig person og et tidspunkt for kontroll. Dersom en forutsetning ikke holder, må planen vurderes på nytt. Dette gir et mer realistisk grunnlag for prioritering enn å videreføre en tidsplan som ikke lenger passer med situasjonen (Jacobsen, 2016, s. 45–49).
 
 - Måned 1–2: Utforskning og mobilisering
-
 - Måned 3–4: Prototyper og teknisk validering
-
 - Måned 5–9: Iterativ utvikling av minimumsløsningen (MVP)
-
 - Måned 10–11: Kontrollert pilot med utvalgte brukere
-
 - Måned 12–13: Forbedringer, integrasjon og operativ forberedelse
-
 - Måned 14: Sikkerhets-, tilgjengelighets- og lanseringsklarhetsvurdering
-
 - Måned 15: Lansering, stabilisering og overgang til drift
 
-Denne planleggingsmodellen balanserer forutsigbarhet med tilpasningsevne. Teamet bør operere med intervaller der tidsbruk er usikkert, og operere med en liten buffer for avvik og komplikasjoner hvor nødvendig. Denne bufferen bør imidlertid ikke bli for stor, da dette ofte fører til at gruppemedlemmer bruker lenger tid på oppgaven enn de hadde gjort ved en kortere tidsfrist. Der data er tilgjengelige, bør Erling sammenligne tidsbruk med tilsvarende prosjekter i offentlig sektor og basere estimater og eventuelle buffere basert på dette.
+Planen må kunne justeres når ny informasjon kommer fram. Optimisme og usikkerhet kan føre til for stramme tidsplaner. Erling bør synliggjøre risiko og unngå å behandle planen som en garanti (Jacobsen, 2016, s. 47–50).
 
-En prioritert backlog kan utarbeides ved hjelp av MoSCoW-metoden. Her skilles det mellom Must Have (Må ha), Should Have (Bør ha), Could Have (Kan ha) og Won’t Have (Skal ikke ha) (Wikipedia, 2026). Den første leveransen eller minimumsløsningen trenger ikke ha all funksjonalitet fra de øvrige kategoriene i MoSCoW. Ved usikkerhet eller avvik bør omfanget justeres fremfor å ofre sikkerhet, tilgjengelighet eller testing. Personvernkrav må inkluderes i både kravspesifikasjoner og leverandøravtaler slik at grunnleggende prinsipper som dataminimering og sikker behandling av data ivaretas i løsningen.
+**7 Sikring av god kommunikasjon**
 
-# Oppstartspakke, del 5 av 6
+Kommunikasjon må følges opp gjennom hele prosjektet. Prosjektkultur utvikles gjennom felles normer, forventninger og relasjoner mellom deltakerne (Jacobsen, 2016, s. 73–77). Samhold, åpen kommunikasjon, engasjement og tillit er viktige faktorer for å utvikle et godt samarbeid i prosjektgruppen (Jacobsen, 2016, s. 78–85). Kommunikasjon handler derfor også om å dele kunnskap, koordinere arbeidet og ta opp problemer underveis (Jacobsen, 2016, s. 82–90).
 
-# Sikring av god kommunikasjon
-
-God kommunikasjon bør ikke overlates til tilfeldighetene. Kommunikasjonsbehov er I konstant endring gjennom prosjektet, og det er Erlings jobb å sørge for at informasjonen flyter godt fra start til slutt. Erling kan ta utgangspunkt i følgende struktur og justere ved behov:
+Kommunikasjonsplanen bør tilpasses mottakerne. Prosjektgruppen trenger detaljert informasjon om oppgaver, avhengigheter og tekniske valg, mens prosjekteieren først og fremst trenger oversikt over framdrift, kostnader, risiko og beslutninger som må tas. Innbyggerne trenger forståelig informasjon om hva portalen kan brukes til, og hvordan innspillene deres blir fulgt opp. Det bør derfor ikke sendes samme informasjon til alle grupper. En tydelig mottaker, hensikt og kanal gjør kommunikasjonen mer relevant og reduserer risikoen for at viktig informasjon forsvinner (Jacobsen, 2016, s. 78–90).
 
 - **Ukentlig teammøte:** Fremdrift mot sprint- eller milepælsmål, risikoer, beslutninger, avhengigheter og konflikter.
-
 - **Korte operative statusmøter:** To til tre ganger per uke under intensiv utvikling, begrenset til umiddelbar koordinering.
-
 - **Demonstrasjon hver annen uke:** Fungerende løsninger vises til teamet, prosjekteieren og utvalgte brukere.
-
 - **Månedlig styringsrapport:** Budsjett, tidsplan, omfang, gevinster, viktigste risikoer, nødvendige beslutninger og prognoser.
-
 - **Månedlig retrospektiv:** Samarbeid og prosessforbedring.
-
 - **Kvartalsvis interessentforum:** Avdelinger, interessegrupper og politiske representanter mottar status og gir tilbakemeldinger.
-
 - **Felles prosjektområde:** Én autoritativ plassering for planer, beslutninger, risikoer, møtereferater, design og krav.
 
-Hvert møte må ha et tydelig formål, fastsatt agenda, beslutningsprotokoll og handlingsliste. Her kan Erling benytte AI-verktøy for utarbeiding av forslag til møtereferat, som deretter kontrolleres av deltakerne. Erling bør oppmuntre til klart og forståelig spark slik at alle interessenter og gruppemedlemmer kan bidra, uansett bakgrunn. Teknisk, politisk og administrativ terminologi må oversettes slik at alle forstår hva som blir ment. Brukerrepresentanter kan trenge forberedelsessesjoner I forkant av tekniske workshops, mens tekniske spesialister må få tydelige beskrivelser av kommunale arbeidsprosesser.
+Møter bør ha formål, agenda og oppsummering av beslutninger og oppgaver. Informasjon og beslutninger må være tilgjengelige på et felles område, og språket forståelig for både tekniske og ikke-tekniske deltakere (Jacobsen, 2016, s. 78–90).
 
-Kommunikasjonen må også omfatte innbyggerne. Kommunen bør forklare hva portalen vil og ikke vil gjøre, hvordan innspill håndteres, hvilke svartider brukerne kan forvente og hvordan personopplysninger behandles. Åpenhet rundt hvilke personopplysninger som behandles, av hvem, hvorfor og hvor lenge er sentralt for å bygge tillit blant innbyggerne.
+Kommunen bør forklare innbyggerne hva portalen skal gjøre, hvordan innspill behandles, forventede svartider og hvordan personopplysninger håndteres. Personverninformasjonen må kvalitetssikres mot gjeldende regler og kommunens praksis.
 
-Til slutt bør Erling være et forbilde for den kommunikasjonskulturen han ønsker å skape. Han bør lytte for han konkluderer, anerkjenne usikkerhet, invitere til motstridende synspunkter, reagere forutsigbart og oppsummere beslutninger. Dersom prosjektlederen straffer personer som deler ubehagelige nyheter vil kommunikasjonssystemene fort bli symbolske. Tidlige varsler bør møtes med konstruktiv oppmerksomhet slik at det er større sannsynlighet for at teamet tar opp problemer mens de fortsatt er håndterbare.
+Erling bør lytte, synliggjøre usikkerhet, invitere ulike synspunkter og oppsummere beslutninger. Åpen kommunikasjon og tillit bidrar til et fungerende prosjektteam (Jacobsen, 2016, s. 82–90; Lindsjørn et al., 2016).
 
-# Konklusjon
+**8 Konklusjon**
 
-Erlings viktigste oppgave i etableringsfasen er å sape de sosiale og ledelsesmessige forutseningene som gjør det mulig for en mangfoldig gruppe å fungere som ett samlet prosjektteam. Dette krever mer enn å rekruttere dyktige og kompetente personer. Han må sikre balansert kompetanse, reell tilgjengelighet, felles formål og tilstrekkelig relasjonell tillit.
+Erlings viktigste oppgave i etableringsfasen er å utvikle en tverrfaglig gruppe til et fungerende prosjektteam. Det krever relevant kompetanse, felles forståelse, tydelig arbeidsfordeling og gode relasjoner (Jacobsen, 2016, s. 14–17, 31–39).
 
-Det første møtet bør kombinere avklaring av mandat, utforskning og innbyggerverdi, rolleavklaring, risikoidentifisering og relasjonsbygging. En relasjonsavtale bør supplere det formelle prosjektmandatet ved å definere gjensidige forventninger, beslutningsatferd og eskaleringsprinsipper. Konflikter bør synliggjøres gjennom faste mekanismer og håndteres i henhold til avtalt konfliktstige. Prosjektet må ledes gjennom en beskyttet utforskningsfase, tidlig testing av risikofylte antakelser og en iterativ implementasjon basert på MoSCoW-metoden hvor tilstrekkelig testing, sikkerhet og personvern prioriteres.
+Oppstartsmøtet bør avklare mandat, mål, roller, risiko og forventninger, samtidig som det bygger relasjoner. En samarbeidsavtale tydeliggjør normer. Konflikter bør håndteres tidlig, og planer må justeres når ny kunnskap kommer fram (Jacobsen, 2016, s. 37–50, 57–69, 73–77).
 
-Kommunikasjonen må være strukturert, inkluderende og transparent. Erling er ansvarlig for å etablere praksiser som muliggjør denne typen kommunikasjon tidlig i prosjektet. Dette vil gjøre teamet hans bedre rustet til å håndtere politiske forventninger, teknisk usikkerhet og tverrfaglig uenighet. Resultatet er ikke nødvendigvis et vellykket prosjekt, snarere et godt utgangspunkt for å kunne levere i henhold til de forventninger og krav som stilles.
+Kommunikasjonen bør være strukturert og åpen. Erling må legge til rette for informasjonsdeling, spørsmål og uenighet. Dette styrker tillit og gir gruppen et bedre utgangspunkt for å håndtere usikkerhet, ulike interesser og tidspress (Jacobsen, 2016, s. 78–90).
+
+
+
 
 # Egenevaluering
 
@@ -325,15 +301,17 @@ Det bør alltid meldes i fra til gruppen hvis man ikke har mulighet til å møte
 Det er viktig at alle er ærlige om forventinger og ambisjoner. Hvis ikke man er ærlig om dette ender man opp med mye frustrasjon over hverandre. Det kan påvirke negativt på arbeidet.  
 Tidsfrister skal alltid overholdes. Det er helt fundamentalt at det blir overholdt etter det er blitt gjort avtaler. Ved spesielle uforutsette hendelser, kan man selvfølgelig få tilpasset tidsfrister, men her er kommunikasjon nøkkelen. Ved situasjoner som gjør at man må endre tidsfrister må man informere om dette så fort det lar seg gjøre.
 
-# Referanser 
+**Referanser**
 
-Ardoq. (2026, 09 09). *Business Capability Map: The Concise Guide to Mapping Business Capabilities and Examples*. Retrieved from Ardoq: https://www.ardoq.com/knowledge-hub/business-capability-map
+Aakre, I., & Mørkve, M. (2024). Ingeniørstudenters opplevelse av gruppeavtale: Er det lurt å skrive en avtale? Nordic Journal of STEM Education, 8(2), 60–72.
 
-Digdir. (2026, 09 09). *Overordnede arkitekturprinsipper*. Retrieved from Digdirs hjemmeside: https://www.digdir.no/digital-samhandling/overordnede-arkitekturprinsipper/1065
+Argyris, C. (1977). Double loop learning in organizations. Harvard Business Review, 55(5), 115–125.
 
-Villax, C., & Anantatmula, V. (2010). Understanding and managing conflict in a project environment. *PMI® Research Conference: Defining the Future of Project Management*.
+Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
 
-Wikipedia. (2026, 09 14). *MoSCoW method*. Retrieved from Wikipedia: https://en.wikipedia.org/wiki/MoSCoW_method
+Lindsjørn, Y., Sjøberg, D. I. K., Dingsøyr, T., Bergersen, G. R., & Dybå, T. (2016). Teamwork quality and project success in software development: A survey of agile development teams. Journal of Systems and Software, 122, 274–286. <https://doi.org/10.1016/j.jss.2016.09.028>
+
+Tuckman, B. W. (1965). Developmental sequence in small groups. Psychological Bulletin, 63(6), 384–399. <https://doi.org/10.1037/h0022100>
 
 # Vedlegg I: RASCI Matrix
 
