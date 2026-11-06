@@ -272,7 +272,6 @@ kontrakten et "glemt dokument"? Gi konkrete eksempler.
 
 Det virket som at kontrakten ble raskt glemt for enkelte. Et eksempel på dette er at vi hadde tydelig i kontrakten at alle må melde seg på i gruppechatten, svare på meldinger, gi beskjeder hvis de ikke har anledning til å møte opp, osv. Det har ikke vært like bra hele veien, men blitt bedre etter enkelte fra gruppen har fått tilbakemelding på dette.
 
-# Oppstartspakke, del 6 av 6
 
 ## 2. Svakheter og rom for forbedring
 
